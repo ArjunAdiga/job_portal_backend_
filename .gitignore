@@ -1,0 +1,32 @@
+# Compiled source #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Logs #
+*.log
+
+# IDEs and editors #
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Build directories #
+target/
+build/
+
+# Maven specific #
+.mvn/
+mvnw
+mvnw.cmd
+
+# OS-specific files #
+.DS_Store
+Thumbs.db
